@@ -1,0 +1,20 @@
+{
+  "name": "web-sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ws": "^8.5.10",
+    "http": "^0.0.1-security",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.2"
+  }
+}
